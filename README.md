@@ -11,11 +11,11 @@ Each repository contains just my personal challenges for fun.
 | [esoc][4] | Exercises Of System Calls |
 | [npht][5] | Ncurses Programming How To |
 
-[1]: /scme/blob/master/README.md
-[2]: /lvhw/blob/master/README.md
-[3]: /tdds/blob/master/README.rst
-[4]: /esoc/blob/master/README.md
-[5]: /npht/blob/master/README.rst
+[1]: gitlab.com/grauwoelfchen/scme
+[2]: gitlab.com/grauwoelfchen/lvhw
+[3]: gitlab.com/grauwoelfchen/tdds
+[4]: gitlab.com/grauwoelfchen/esoc
+[5]: gitlab.com/grauwoelfchen/npht
 
 
 ## Links

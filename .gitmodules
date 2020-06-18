@@ -1,0 +1,15 @@
+[submodule "npht"]
+	path = npht
+	url = git@gitlab.com:grauwoelfchen/npht.git
+[submodule "eosc"]
+	path = eosc
+	url = git@gitlab.com:grauwoelfchen/eosc.git
+[submodule "lvhw"]
+	path = lvhw
+	url = git@gitlab.com:grauwoelfchen/lvhw.git
+[submodule "tdds"]
+	path = tdds
+	url = git@gitlab.com:grauwoelfchen/tdds.git
+[submodule "scme"]
+	path = scme
+	url = git@gitlab.com:grauwoelfchen/scme.git

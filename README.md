@@ -3,6 +3,8 @@
 The meta repository of my exercises.  
 Each repository contains just my personal challenges for fun.
 
+Every repository is hosted on GitLab.com and mirrored on GitHub.com.
+
 | Name | Description |
 |:--|:--|
 | [scme][1] | SCheMe Exercises |
@@ -11,11 +13,11 @@ Each repository contains just my personal challenges for fun.
 | [esoc][4] | Exercises Of System Calls |
 | [npht][5] | Ncurses Programming How To |
 
-[1]: gitlab.com/grauwoelfchen/scme
-[2]: gitlab.com/grauwoelfchen/lvhw
-[3]: gitlab.com/grauwoelfchen/tdds
-[4]: gitlab.com/grauwoelfchen/esoc
-[5]: gitlab.com/grauwoelfchen/npht
+[1]: https://gitlab.com/grauwoelfchen/scme
+[2]: https://gitlab.com/grauwoelfchen/lvhw
+[3]: https://gitlab.com/grauwoelfchen/tdds
+[4]: https://gitlab.com/grauwoelfchen/esoc
+[5]: https://gitlab.com/grauwoelfchen/npht
 
 
 ## Links
